@@ -1,0 +1,15 @@
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\bin\Debug\net6.0\asd.exe
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\bin\Debug\net6.0\asd.deps.json
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\bin\Debug\net6.0\asd.runtimeconfig.json
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\bin\Debug\net6.0\asd.dll
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\bin\Debug\net6.0\asd.pdb
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.csproj.AssemblyReference.cache
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.AssemblyInfoInputs.cache
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.AssemblyInfo.cs
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.csproj.CoreCompileInputs.cache
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.dll
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\refint\asd.dll
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.pdb
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\asd.genruntimeconfig.cache
+C:\Users\Bagri\Desktop\EntityFramework\ORM\asd\obj\Debug\net6.0\ref\asd.dll
